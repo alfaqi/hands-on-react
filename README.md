@@ -1,3 +1,6 @@
+# Live
+https://alfaqi.github.io/hands-on-react/
+
 # Hands-On Introduction: React 
 This is the repository for the LinkedIn Learning course Hands-On Introduction: React. The full course is available from [LinkedIn Learning][lil-course-url].
 
